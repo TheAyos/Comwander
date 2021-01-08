@@ -9,3 +9,12 @@
 ✅ It makes creating ***flexible and well-written*** **WhatsApp Bots 🤖** easy !
 
 **Comwander**'s main goal is to **enable you** to create elaborated custom commands while writing clear and easy-to-understand code. Isn't that fantastic ✨?
+
+
+## Get Started 😄
+
+So...
+
+```
+wip
+```
